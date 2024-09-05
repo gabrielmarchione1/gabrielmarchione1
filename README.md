@@ -2,18 +2,22 @@
 
 <div align="center">
    <h2>Olá, me chamo Gabriel Marchione!  <img src="https://media.giphy.com/media/QBjok2NBIzSR7IaDQK/giphy.gif" width="50px"> </h2>
-  <p>- 📊 Entusiasta da área de Dados</p>
-  <p>- 🎲 Estudando direcionado para a área de Dados</p>
-  <p>- ⬆️ Comprometido com meus objetivos e propósitos de vida</p>
-  <p>- 💻 Procurando estágio na área de dados (Analista de dados, Engenheiro de dados ou Cientista de dados)</p>
+  <p>- 💼 Estagiário de TI</p>
+  <p>- 🎓 Graduando em Sistemas de Informação</p>
+   <!-- <p>- ⬆️ Comprometido com meus objetivos e propósitos de vida</p> -->
+  <p>- 💻 Desenvolvedor Fullstack utilizando C# com Windows Forms</p>
 </div>
 
 ##
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" alt=".NET" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/fluency/48/000000/jupyter.png" alt="Jupyter"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+   <!-- <img src="https://img.icons8.com/fluency/48/000000/jupyter.png" alt="Jupyter"/> -->
+  <!-- <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/> -->
 </div>
 <br>
 
