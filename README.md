@@ -2,7 +2,7 @@
 
 <div align="center">
    <h2>Olá, me chamo Gabriel Marchione!  <img src="https://media.giphy.com/media/QBjok2NBIzSR7IaDQK/giphy.gif" width="50px"> </h2>
-  <p>- 💼 Estagiário de TI</p>
+  <p>- 💼 Software Developer</p>
   <p>- 🎓 Graduando em Sistemas de Informação</p>
    <!-- <p>- ⬆️ Comprometido com meus objetivos e propósitos de vida</p> -->
   <p>- 💻 Desenvolvedor Fullstack utilizando C# com Windows Forms</p>
